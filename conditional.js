@@ -15,4 +15,5 @@ var chickenPrice = 500;
 var myMoney = 50;
 if(chickenPrice >= myMoney){
     console.log("Murgir Raan Khabo")
+    fal
 }
